@@ -25,6 +25,7 @@ pip install torch torchvision
 
 1. **Download Dataset**
    - Visit Kaggle: "Tuberculosis X-ray Diagnosis CNN Classifier Dataset"
+   - https://www.kaggle.com/code/brianjing/tuberculosis-x-ray-diagnosis-cnn-classifier/input
    - Download chest X-ray images
    - Create directory structure:
 ```
